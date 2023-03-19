@@ -29,7 +29,7 @@
 .container { 
     padding-top: 52px ;
     padding-bottom: 52px;
-    margin-left: 70px;
+    
 
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@
     border-radius: 30px;
 }
 .thing:last-child {
-    margin-right: 70px;
+ 
 }
 
 .footer {
